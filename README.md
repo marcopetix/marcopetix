@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Marco 👋</h1>
 
 <p align="center">
-AI researcher at the Physics Department, University of Pisa <br>
+AI researcher at the National Institute of Nuclear Physics, University of Pisa <br>
 Passionate about Reinforcement Learning, LLMs, and AI for Games
 </p>
 
