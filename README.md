@@ -1,8 +1,23 @@
-### Hi there :octopus:	
-- 🎓 MSc student in Artificial Intelligence @University of Pisa.
+<h1 align="center">Hi there, I'm Marco 👋</h1>
 
+<p align="center">
+AI researcher at the Physics Department, University of Pisa <br>
+Passionate about Reinforcement Learning, LLMs, and AI for Games
+</p>
 
-![Marco Petix's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcopetix&hide=stars&show_icons=true&theme=prussian)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcopetix&show_icons=true&theme=prussian&layout=compact)
+---
 
+### 🌟 About Me
 
+- 🎓 MSc in Computer Science (AI track), University of Pisa, graduated cum laude  
+- 🔬 Currently researching Artificial Intelligence and Reinforcement Learning  
+- 🎮 Pursuing autonomous projects on AI applications in games, focusing on RL and LLMs  
+- 🛠️ Building open-source showcase projects to share research and learning
+
+---
+
+### 🚀 Current Projects (work in progess)
+
+- 🧩 **RL Project**: Adversarial evasion game with learning NPCs  
+- 🧠 **LLM Project**: Real-time game guide agent powered by language models  
+- 🌐 **Personal Website**: Portfolio to showcase projects, research, and blog posts
